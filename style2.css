@@ -1,0 +1,112 @@
+
+.color9{
+          background:#7AB4CE;
+          font-size: 40px;
+         } 
+.uno{
+        border-color:white;
+        } 
+.color2{
+  background: #C89BBF;
+  font-size: 40px;
+  }             
+.color3{
+ background: #EC89D9;
+ font-size: 40px;
+             }
+.color4{
+background: #DDB767;
+font-size: 40px;
+     }
+.color10{
+  background: #F4B676;
+  font-size: 40px;
+     }
+.color11{
+          background: #F1948A; 
+          font-size: 40px;
+        }    
+   .color1{
+    background: #A3E4D7;
+    font-size: 40px;
+   }
+table{
+border:hidden;
+}
+.color5{
+     background:#F2CF2F;
+     font-size: 40px;
+   } 
+body{
+  font-family:Ravie;
+}
+.color7{
+    font-size: 40px;
+      background: #85AA6B;  
+     } 
+h1{
+  color: darkblue;
+}
+h4{
+    float: left;
+    color: blue;
+}  
+.n{
+    border:0px;
+} 
+p{
+  font-family:Ravie;
+    font-size: 20px;
+    text-align: center;
+}
+.color6{
+      background: #C6E078;
+      font-size: 40px;
+   }   
+.color8{
+         background: #B0C7DF;  
+         font-size: 40px;
+        }  
+.once{
+  float: left;
+}
+.nueve{
+  float: left;
+}
+.unoo{
+color: #C89BBF;
+font-size: 20px;
+font-family:Ravie;
+}.dos{
+  color: #EC89D9;
+  font-size: 20px;
+  font-family:Ravie;
+}.tres{
+color: #DDB767;
+font-size: 20px;
+font-family:Ravie;
+}.cuatro{
+  color:#F4B676;
+  font-size: 20px;
+  font-family:Ravie;
+}.cinco{
+  color:#F1948A;
+  font-size: 20px;
+  font-family:Ravie;
+}.seis{
+  color:#F2CF2F;
+  font-size: 20px;
+  font-family:Ravie;
+}.siete{
+  color:#85AA6B;
+  font-size: 20px;
+  font-family:Ravie;
+}.ocho{
+  color:#B0C7DF;
+  font-size: 20px;
+  font-family:Ravie;
+}.diez{
+  color:#7AB4CE;
+  font-size: 20px;
+  font-family:Ravie;
+}
